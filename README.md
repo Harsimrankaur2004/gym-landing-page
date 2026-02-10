@@ -3,6 +3,10 @@
 A modern, responsive Gym & Fitness Landing Page built using HTML and Tailwind CSS.
 Designed for portfolio showcase with clean UI, smooth popup interactions, and mobile-first layout.
 
+## Live Preview
+
+https://gymfit-lp.netlify.app/
+
 ## 🔥 Features
 
 - Responsive gym landing page (desktop + mobile)
